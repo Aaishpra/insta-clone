@@ -3,6 +3,7 @@
 
 
 
+
 ![image](https://user-images.githubusercontent.com/66299533/94404956-70d5ac00-018d-11eb-9180-47ac8230587e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+![image](https://user-images.githubusercontent.com/66299533/95672558-679e0380-0bbf-11eb-8333-2c6061b1ada1.png)
