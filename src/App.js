@@ -5,7 +5,7 @@ import Post from './Post';
 
 function App() {
   const [posts, setPosts] = useState([
-    {username: "MillyBoobyBrown",
+    {username: "Robert Pattinson",
   caption: "Thanks Oscars for inviting me",
   imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXu-4lmJlbKIVNG2zAf4p8KnHTrXQFDC0DcQ&usqp=CAU"
      },
