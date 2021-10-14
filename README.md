@@ -1,10 +1,4 @@
 
-**This project is still on Developing Stage --Created by Shipra Verma**
-
-
-
-
-![image](https://user-images.githubusercontent.com/66299533/94404956-70d5ac00-018d-11eb-9180-47ac8230587e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
